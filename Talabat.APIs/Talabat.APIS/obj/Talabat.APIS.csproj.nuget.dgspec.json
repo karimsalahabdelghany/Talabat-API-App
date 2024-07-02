@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Talabat.APIS.csproj": {}
+  },
+  "projects": {
+    "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Talabat.APIS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Talabat.APIS.csproj",
+        "projectName": "Talabat.APIS",
+        "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Talabat.APIS.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj"
+              },
+              "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\Talabat.Repositiory.csproj": {
+                "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\Talabat.Repositiory.csproj"
+              },
+              "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\Talabat.Services.csproj": {
+                "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\Talabat.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectName": "Talabat.Core",
+        "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\Talabat.Repositiory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\Talabat.Repositiory.csproj",
+        "projectName": "Talabat.Repositiory",
+        "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\Talabat.Repositiory.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Repositiory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\Talabat.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\Talabat.Services.csproj",
+        "projectName": "Talabat.Services",
+        "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\Talabat.Services.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

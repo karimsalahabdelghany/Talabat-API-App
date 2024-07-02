@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\visual stadio projects\\Talabat.APIs Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|f:\\visual stadio projects\\talabat.apis solution\\talabat.apis\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|solutionrelative:talabat.apis\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56280B57-B461-42EE-A571-27C394888CB2}|Talabat.Services\\Talabat.Services.csproj|f:\\visual stadio projects\\talabat.apis solution\\talabat.services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56280B57-B461-42EE-A571-27C394888CB2}|Talabat.Services\\Talabat.Services.csproj|solutionrelative:talabat.services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088900E6-4520-4F04-A8CD-A0C54A32C7A8}|Talabat.Core\\Talabat.Core.csproj|f:\\visual stadio projects\\talabat.apis solution\\talabat.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088900E6-4520-4F04-A8CD-A0C54A32C7A8}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|f:\\visual stadio projects\\talabat.apis solution\\talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|solutionrelative:talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|f:\\visual stadio projects\\talabat.apis solution\\talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7799477A-FE49-4063-A7F3-D451CD88CC66}|Talabat.APIS\\Talabat.APIS.csproj|solutionrelative:talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Talabat.Services\\PaymentService.cs",
+              "ToolTip": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Services\\PaymentService.cs",
+              "RelativeToolTip": "Talabat.Services\\PaymentService.cs",
+              "ViewState": "AQIAAFkAAAAAsMzMzMzsv2kAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:48:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Services\\IPaymentService.cs",
+              "ToolTip": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.Core\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Talabat.Core\\Services\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:41:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIS\\Controllers\\PaymentsController.cs",
+              "ToolTip": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Talabat.APIS\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAACUAAAAAuMzMzMzsvxgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:20:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat.APIS\\Program.cs",
+              "ToolTip": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\Program.cs",
+              "RelativeToolTip": "Talabat.APIS\\Program.cs",
+              "ViewState": "AQIAAF0AAACAMTMzM3MmwGIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:29:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\appsettings.json",
+              "RelativeDocumentMoniker": "Talabat.APIS\\appsettings.json",
+              "ToolTip": "F:\\visual stadio projects\\Talabat.APIs Solution\\Talabat.APIS\\appsettings.json",
+              "RelativeToolTip": "Talabat.APIS\\appsettings.json",
+              "ViewState": "AQIAAAsAAAAgAAAAAIApwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T01:05:50.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
